@@ -4,5 +4,8 @@
         "namespace": "android_app",
         "package_name": "io.github.mousepoo0714.schedule",
         "sha256_cert_fingerprints": ["36:DA:F9:7C:1B:22:6A:C4:1A:2E:38:A1:29:82:04:9A:2E:53:55:BF:96:38:FB:EF:9B:EA:E9:B8:85:6E:DB:63"]
+        "sha256_cert_fingerprints": ["36:DA:F9:7C:1B:22:6A:C4:1A:2E:38:A1:29:82:04:9A:2E:53:55:BF:96:38:FB:EF:9B:EA:E9:B8:85:6E:DB:63",
+  "PLAY_RECOGNIZED, UNRECOGNIZED_VERSION, UNEVALUATED"
+]
       }
     }]
